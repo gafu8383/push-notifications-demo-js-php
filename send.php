@@ -7,9 +7,9 @@ use Minishlink\WebPush\WebPush;
 
 $auth = [
     'VAPID' => [
-        'subject' => 'mailto:me@website.com', // can be a mailto: or your website address
-        'publicKey' => 'BLWKe9pIQa2mHgqh2eI4b_a-XgZFbFyvLqRA3-eUtKehdXtRGuqjIVKfkBmhm8ZtcMF_q0oEPKBVjZyqF9KzTdg', // (recommended) uncompressed public key P-256 encoded in Base64-URL
-        'privateKey' => 'M0GqiHBWLHB12TwSnoVVTxFqo621Z_J1hHSNr7KbcGs', // (recommended) in fact the secret multiplier of the private key encoded in Base64-URL 
+        'subject' => 'mailto:admin@kamichita.f5.si', // can be a mailto: or your website address
+        'publicKey' => 'BNiXNC2E8ZF3qT4BmmU8pqS4E_mt9AiOv0bFNN5URwyvnH08rlaFM9CVUaBRvFjhbLZrRQ-ik74T2hSsA-HwECY', // (recommended) uncompressed public key P-256 encoded in Base64-URL
+        'privateKey' => 'y7eSf_tzsG9EQYhNkHTcq8NZV5xNwqU7PGhZ1KNJ4ls', // (recommended) in fact the secret multiplier of the private key encoded in Base64-URL 
     ],
 ];
 
