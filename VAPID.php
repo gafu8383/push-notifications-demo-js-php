@@ -6,6 +6,6 @@ use Minishlink\WebPush\VAPID;
 print_r(VAPID::createVapidKeys());
 
 /*
-[publicKey] => BLWKe9pIQa2mHgqh2eI4b_a-XgZFbFyvLqRA3-eUtKehdXtRGuqjIVKfkBmhm8ZtcMF_q0oEPKBVjZyqF9KzTdg
-[privateKey] => M0GqiHBWLHB12TwSnoVVTxFqo621Z_J1hHSNr7KbcGs
+[publicKey] => BI3cmMF3aztywu1vkGxfTGpR2hFEhFSnhE1BQafj08LECgr60ET6hEMp84zNEEMYLM5_S_D7kydUdRmHD-tV5Fk
+[privateKey] => 5exnDTaspZ5mePOgMAF0JSVkndMmKs1zB7ddBZPPnFQ
 */
